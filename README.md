@@ -1,3 +1,7 @@
+1) Keep .py and .txt file in the same directory
+2) python SNA_FB.py
+
+
 Uses the SNAP public dataset Social circles: Facebook from Stanford 
 University(https://snap.stanford.edu/data/ego-Facebook.html). 
 This dataset consists of ‘circles’ (or ‘friends lists’) from Facebook. 
